@@ -7,8 +7,7 @@
 - [Youtube Channel Subscribe: @codeforany](https://www.youtube.com/channel/UCdQTp9wRK5vAOlEQZf9PHSg?sub_confirmation=1)
 
 
-UI UX App Design by: Pixel True
-https://www.pixeltrue.com/free-ui-kits/fitness-app-ui-kit
+UI UX App Design by: [Pixel True](https://www.pixeltrue.com/free-ui-kits/fitness-app-ui-kit)
 
 A new Flutter project.
 
