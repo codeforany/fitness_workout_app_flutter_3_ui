@@ -1,7 +1,6 @@
 # fitness
 
-## codeforany
-# @codeforany
+# codeforany @codeforany
 
 - [Youtube Full Playlist: Fitness Workout Tracker, Meal Planner, Sleep Tracker App UI UX Design Convent Into Flutter Code](https://www.youtube.com/playlist?list=PLzcRC7PA0xWR1AY-uvplpAYoDFzRdUHgQ)
 - [Youtube Channel: @codeforany](https://www.youtube.com/channel/UCdQTp9wRK5vAOlEQZf9PHSg)
